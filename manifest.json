@@ -1,0 +1,13 @@
+{
+    "entry": "DontHitWhiteBlocks.js",
+    "name": "DontHitWhiteBlocks",
+    "type": "lse-quickjs",
+    "description": "LeviLamina - 别踩白块小游戏",
+    "author": "MengHanLOVE1027",
+    "version": "0.1.0",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}
