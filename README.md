@@ -12,7 +12,7 @@ lip install github.com/MengHanLOVE1027/DontHitWhiteBlocks
 
 ## Usage
 
-Wait a momment(?Maybe...)
+Wait a moment(?Maybe...)
 
 ## Contributing
 
