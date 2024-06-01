@@ -5,7 +5,7 @@
 // 注册插件
 const plugin = {
     Name: "DontHitWhiteBlocks",
-    Introduction: "LeviLamina - 别踩白块小游戏 v0.1.0 作者: 梦涵LOVE",
+    Introduction: "基于 LeviLamina - LSE 引擎 的 别踩白块小游戏 v0.1.0 作者: 梦涵LOVE",
     Version: [0, 1, 0],
     Other: {
         Author: "梦涵LOVE",
