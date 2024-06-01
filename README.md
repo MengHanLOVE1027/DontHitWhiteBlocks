@@ -1,17 +1,18 @@
-# EasyBackuper
+# DontHitWhiteBlocks
 
-简单化的LSE - JS备份插件
+LeviLamina - 别踩白块小游戏 - 梦涵 LOVE
 
 ## Install
 
 To install all engines as a whole, you can use the following command:
 
 ```sh
-lip install github.com/MengHanLOVE1027/EasyBackuper
+lip install github.com/MengHanLOVE1027/DontHitWhiteBlocks
 ```
 
 ## Usage
-See https://www.minebbs.com/resources/easybackuper-eb.7771/
+
+Wait a momment(?Maybe...)
 
 ## Contributing
 
