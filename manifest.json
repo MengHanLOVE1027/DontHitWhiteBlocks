@@ -2,7 +2,7 @@
     "entry": "DontHitWhiteBlocks.js",
     "name": "DontHitWhiteBlocks",
     "type": "lse-quickjs",
-    "description": "基于 LeviLamina - LSE 引擎 的 别踩白块小游戏 - 梦涵LOVE",
+    "description": "基于 LeviLamina - LSE 引擎 的 别按白块小游戏 - 梦涵LOVE",
     "author": "MengHanLOVE1027",
     "version": "0.1.0",
     "dependencies": [
